@@ -30,7 +30,7 @@
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/EZDownloader-bot.git
+    git clone https://github.com/Bro7777/EZDownloader-bot.git
     cd EZDownloader-bot
     ```
 
@@ -50,7 +50,7 @@
 4. Run the bot:
 
     ```bash
-    python bot.py
+    python main.py
     ```
 
 ---
